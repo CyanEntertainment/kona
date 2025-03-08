@@ -1,0 +1,8 @@
+{
+  "label": "4. Verified Users Management",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages users who have completed phone verification and bypass manual approval for payment access."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "3. Sports Guests Management",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages temporary visitors and tracks their details."
+  }
+}

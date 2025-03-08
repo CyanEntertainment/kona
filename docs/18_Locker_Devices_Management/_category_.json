@@ -1,0 +1,8 @@
+{
+  "label": "18. Locker Devices Management",
+  "position": 18,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages and tracks locker devices assigned to users."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "17. Booking Transactions Management",
+  "position": 17,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages and tracks notes associated with bookings for internal reference."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "10. Food Categories",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages food categories that group different types of food items."
+  }
+}

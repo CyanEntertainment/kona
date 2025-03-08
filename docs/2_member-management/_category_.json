@@ -1,0 +1,8 @@
+{
+  "label": "2. Member Management",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages and tracks members along with subscription details, account status, and payment status."
+  }
+}

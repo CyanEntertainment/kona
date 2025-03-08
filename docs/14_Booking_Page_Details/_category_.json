@@ -1,0 +1,8 @@
+{
+  "label": "14. Booking Page Details",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages all booking records, their statuses, and payment details."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "8. Admin Roles Management",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Defines and manages different administrative roles within the system."
+  }
+}

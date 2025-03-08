@@ -1,0 +1,8 @@
+{
+  "label": "5. Athletes Management",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages registered athletes, their membership details, and subscription status."
+  }
+}

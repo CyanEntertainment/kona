@@ -1,0 +1,8 @@
+{
+  "label": "19. Manual Wristband Assignment Management",
+  "position": 19,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages and tracks the assignment of wristbands linked to lockers."
+  }
+}

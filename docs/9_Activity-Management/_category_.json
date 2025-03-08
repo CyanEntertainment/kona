@@ -1,0 +1,8 @@
+{
+  "label": "9. Activity Management",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Handles the creation, editing, and management of activities offered in the system."
+  }
+}
