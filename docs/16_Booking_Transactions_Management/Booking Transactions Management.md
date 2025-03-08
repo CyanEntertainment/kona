@@ -86,5 +86,3 @@ Provides an **in-depth view** of a specific transaction.
 ✔️ **QR code validation ensures seamless check-in** processing for booked tickets.
 
 ---
-
-🚀 _This **Booking Transactions Management Module** ensures **secure payment processing, tracking, and validation!**_

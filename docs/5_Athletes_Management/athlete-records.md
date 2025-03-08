@@ -60,47 +60,67 @@ Each athlete has a **detailed profile page** with personal and membership inform
 
 ### 📌 **Personal Details:**
 
-📸 Profile Picture (if applicable)  
-📧 Email  
-📞 Phone Number  
-🆔 Identity Card Number & Image  
-🎂 Birthdate  
-🏅 Activity Type (e.g., Coastal Rowing)  
-📆 Subscription End Date
+| Field                               | Description                                           |
+| ----------------------------------- | ----------------------------------------------------- |
+| 📸 **Profile Picture**              | Athlete's profile picture (if applicable).            |
+| 📧 **Email**                        | Registered email address.                             |
+| 📞 **Phone Number**                 | Contact phone number.                                 |
+| 🆔 **Identity Card Number & Image** | Government-issued ID details.                         |
+| 🎂 **Birthdate**                    | Athlete's date of birth.                              |
+| 🏅 **Activity Type**                | Type of sport or activity (**e.g., Coastal Rowing**). |
+| 📆 **Subscription End Date**        | Expiration date of the athlete's membership.          |
+
+---
 
 ### ✏️ **Editing Athlete Information:**
 
-✔️ Modify existing details.  
-✔️ Update payment status and subscription validity.
+| Action                       | Description                               |
+| ---------------------------- | ----------------------------------------- |
+| ✔️ **Modify Details**        | Update athlete's personal details.        |
+| ✔️ **Update Payment Status** | Modify payment and subscription validity. |
+
+---
 
 ### ➕ **Adding a New Athlete:**
 
 #### **📝 Personal Details:**
 
-✔️ First & Last Name  
-✔️ Email  
-✔️ Phone Number & Country Code  
-✔️ Birth Date  
-✔️ Gender
+| Field                              | Description                    |
+| ---------------------------------- | ------------------------------ |
+| ✔️ **First & Last Name**           | Athlete's full name.           |
+| ✔️ **Email**                       | Registered email address.      |
+| ✔️ **Phone Number & Country Code** | Athlete's contact number.      |
+| ✔️ **Birth Date**                  | Athlete's date of birth.       |
+| ✔️ **Gender**                      | Select **Male** or **Female**. |
 
 #### **🆔 Verification Details:**
 
-📜 Identity Card Type  
-🆔 Identity Card Number  
-📁 Upload Identity Card Image
+| Field                             | Description                                              |
+| --------------------------------- | -------------------------------------------------------- |
+| 📜 **Identity Card Type**         | Select the type of ID (**e.g., Passport, National ID**). |
+| 🆔 **Identity Card Number**       | Enter the ID number.                                     |
+| 📁 **Upload Identity Card Image** | Upload a scanned copy of the ID.                         |
 
 #### **💳 Membership & Payment:**
 
-✔️ Choose Membership Type  
-✔️ Select Payment Status
+| Field                         | Description                                       |
+| ----------------------------- | ------------------------------------------------- |
+| ✔️ **Choose Membership Type** | Select the membership type (**Annual, Monthly**). |
+| ✔️ **Select Payment Status**  | Choose **Paid, Not Paid, or Pending**.            |
 
 #### **🏆 Activity Type Selection:**
 
-✔️ Define the athlete's activity (**e.g., Coastal Rowing, Running, etc.**).
+| Field                          | Description                                                              |
+| ------------------------------ | ------------------------------------------------------------------------ |
+| ✔️ **Activity Type Selection** | Define the athlete's activity (**e.g., Coastal Rowing, Running, etc.**). |
+
+---
 
 ### 🎯 **Actions:**
 
-💾 **Save & Register** → Confirms athlete registration.
+| Action                 | Description                    |
+| ---------------------- | ------------------------------ |
+| 💾 **Save & Register** | Confirms athlete registration. |
 
 ---
 

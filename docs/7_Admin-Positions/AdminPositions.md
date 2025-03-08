@@ -63,7 +63,12 @@ Admin positions can have the following statuses:
 ### 📋 **Process:**
 
 1️⃣ Click the **"Add New"** button to open the creation form.  
-2️⃣ Enter the **Title** of the new admin position.  
+2️⃣ Enter the required details:
+
+| Field        | Description                                |
+| ------------ | ------------------------------------------ |
+| 🏷️ **Title** | Enter the title of the new admin position. |
+
 3️⃣ Click **💾 Save** to add the position to the system or **❌ Cancel** to discard changes.
 
 ---
@@ -75,5 +80,3 @@ Admin positions can have the following statuses:
 ✔️ Ensuring the **correct position hierarchy** helps **maintain proper administrative workflow**.
 
 ---
-
-🚀 _This **admin position management module** ensures **structured role assignments and access control** for an organized admin workflow._

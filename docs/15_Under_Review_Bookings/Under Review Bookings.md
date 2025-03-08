@@ -34,11 +34,13 @@ Manage **pending bookings**, verify transactions, and ensure accurate booking ap
 
 ## ⚙️ 15.3. Booking Actions Menu
 
-✔️ **Approve** → Accepts the booking.  
-❌ **Reject** → Declines the booking request.  
-📝 **Show** → Views the full booking details.  
-📜 **Logs** → Tracks all changes and modifications to the booking.  
-🗑️ **Delete** → Removes the booking permanently from the system.
+| Action         | Description                                          |
+| -------------- | ---------------------------------------------------- |
+| ✔️ **Approve** | Accepts the booking.                                 |
+| ❌ **Reject**  | Declines the booking request.                        |
+| 📝 **Show**    | Views the full booking details.                      |
+| 📜 **Logs**    | Tracks all changes and modifications to the booking. |
+| 🗑️ **Delete**  | Removes the booking permanently from the system.     |
 
 ---
 
@@ -49,5 +51,3 @@ Manage **pending bookings**, verify transactions, and ensure accurate booking ap
 ✔️ **Reduces fraudulent bookings** and prevents **system misuse**.
 
 ---
-
-🚀 _This **Under Review Bookings Module** ensures **manual verification, reduced fraud, and accurate booking approvals!**_

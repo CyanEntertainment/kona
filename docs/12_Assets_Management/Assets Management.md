@@ -61,5 +61,3 @@ sidebar_position: 1
 ✔️ **Reports provide admins with insights** into **asset usage and condition**.
 
 ---
-
-🚀 _This **Assets Management Module** ensures **structured tracking, status updates, and reporting for all assets!**_

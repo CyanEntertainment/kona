@@ -39,9 +39,11 @@ Manage **verified users** efficiently, streamline onboarding, and enable **secur
 
 ## ⚙️ 4.4. Actions Menu
 
-✏️ **Edit** → Modify user details.  
-🚫 **Inactivate** → Disable user access if necessary.  
-🗑️ **Delete** → **Permanently remove** a user from the system.
+| Action            | Description                                    |
+| ----------------- | ---------------------------------------------- |
+| ✏️ **Edit**       | Modify user details.                           |
+| 🚫 **Inactivate** | Disable user access if necessary.              |
+| 🗑️ **Delete**     | **Permanently remove** a user from the system. |
 
 ---
 
@@ -80,5 +82,3 @@ Manage **verified users** efficiently, streamline onboarding, and enable **secur
 ✔️ **Secure & Efficient** → Phone verification ensures authenticity while expediting access.
 
 ---
-
-🚀 _This **verified users module** enables **quick, efficient, and secure** user access with minimal admin intervention!_

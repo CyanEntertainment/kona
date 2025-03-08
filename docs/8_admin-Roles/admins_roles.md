@@ -31,9 +31,11 @@ Define and manage **user roles** with assigned permissions for controlled system
 
 ### 🎯 **Actions Menu Options:**
 
-✏️ **Edit Role** → Modify the **name** or **permissions** of a role.  
-🗑️ **Delete Role** → Remove a role **if it is not assigned** to any administrators.  
-⚠️ _(Super Admin role is **non-editable** and **cannot be deleted**.)_
+| Action                         | Description                                                         |
+| ------------------------------ | ------------------------------------------------------------------- |
+| ✏️ **Edit Role**               | Modify the **name** or **permissions** of a role.                   |
+| 🗑️ **Delete Role**             | Remove a role **if it is not assigned** to any administrators.      |
+| ⚠️ **Super Admin Restriction** | _(Super Admin role is **non-editable** and **cannot be deleted**.)_ |
 
 ---
 
@@ -42,9 +44,14 @@ Define and manage **user roles** with assigned permissions for controlled system
 ### 📋 **Process:**
 
 1️⃣ Click the **"Add New"** button to open the creation form.  
-2️⃣ Enter the **Role Name**.  
-3️⃣ Assign necessary **Permissions** (see below).  
-4️⃣ Click **💾 Save** to add the role or **❌ Cancel** to discard changes.
+2️⃣ Enter the required details:
+
+| Field              | Description                                   |
+| ------------------ | --------------------------------------------- |
+| 🏷️ **Role Name**   | Enter the name of the new role.               |
+| 🔒 **Permissions** | Assign necessary **permissions** to the role. |
+
+3️⃣ Click **💾 Save** to add the role or **❌ Cancel** to discard changes.
 
 ---
 

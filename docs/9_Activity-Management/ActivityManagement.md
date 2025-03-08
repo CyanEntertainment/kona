@@ -52,17 +52,20 @@ Manage **activities**, set pricing, control booking availability, and configure 
 1️⃣ Click the **"Add New"** button to open the creation form.  
 2️⃣ Enter the following details:
 
-- 🏷️ **Name** → Title of the activity.
-- ✍️ **Short Description** → A brief summary of the activity.
-- 📜 **Full Description** → A detailed explanation with formatting options.
-- 🖼️ **Image Upload** → A cover image for the activity (**required**).
-- 🎥 **Video Type** → Option to attach a **video link**.
-- 💰 **Pricing**:
-  - 👨‍💼 **Man Price** / 👩 **Woman Price** → Base prices for each gender.
-  - 📅 **Weekend Pricing** → Special rates for weekends.
-- ❓ **FAQ Category** → Assigns the activity to an **FAQ section**.
-- 🏞️ **Gallery** → Allows **uploading multiple images**.  
-  3️⃣ Click **💾 Save** to add the activity or **❌ Cancel** to discard changes.
+| Field                                 | Description                                     |
+| ------------------------------------- | ----------------------------------------------- |
+| 🏷️ **Name**                           | Title of the activity.                          |
+| ✍️ **Short Description**              | A brief summary of the activity.                |
+| 📜 **Full Description**               | A detailed explanation with formatting options. |
+| 🖼️ **Image Upload**                   | A **required** cover image for the activity.    |
+| 🎥 **Video Type**                     | Option to attach a **video link**.              |
+| 💰 **Pricing**                        | Section for setting activity pricing.           |
+| 👨‍💼 **Man Price** / 👩 **Woman Price** | Base prices for each gender.                    |
+| 📅 **Weekend Pricing**                | Special rates for weekends.                     |
+| ❓ **FAQ Category**                   | Assigns the activity to an **FAQ section**.     |
+| 🏞️ **Gallery**                        | Allows **uploading multiple images**.           |
+
+3️⃣ Click **💾 Save** to add the activity or **❌ Cancel** to discard changes.
 
 ---
 

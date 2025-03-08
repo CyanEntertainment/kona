@@ -52,5 +52,3 @@ sidebar_position: 1
 ✔️ **Asset tracking improves accountability** and prevents loss or mismanagement.
 
 ---
-
-🚀 _This **Asset Reports Management Module** ensures **better tracking, transparency, and accountability of assets!**_

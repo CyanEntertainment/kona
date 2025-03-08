@@ -43,22 +43,28 @@ Manage **sports club members** efficiently with filtering, tracking, and subscri
 
 #### **🛠️ Basic Information:**
 
-✔️ **First Name & Last Name** (Mandatory)  
-✔️ **Email** (Mandatory)  
-✔️ **Phone Code & Phone Number**  
-✔️ **Payment Status** (Dropdown)  
-✔️ **Birthdate & Gender** (Mandatory)
+| Field                            | Description                            |
+| -------------------------------- | -------------------------------------- |
+| ✔️ **First Name & Last Name**    | **Mandatory** full name of the member. |
+| ✔️ **Email**                     | **Mandatory** registered email.        |
+| ✔️ **Phone Code & Phone Number** | Contact number with country code.      |
+| ✔️ **Payment Status**            | Dropdown to select **payment status**. |
+| ✔️ **Birthdate & Gender**        | **Mandatory** birth date and gender.   |
 
 #### **🆔 Identity & Verification:**
 
-📜 **Identity Card Type** (Dropdown)  
-🆔 **Identity Card Number**  
-📁 **Identity Card Upload** (File Upload)
+| Field                       | Description                                |
+| --------------------------- | ------------------------------------------ |
+| 📜 **Identity Card Type**   | Dropdown to select **ID type**.            |
+| 🆔 **Identity Card Number** | Unique **identification number**.          |
+| 📁 **Identity Card Upload** | **File upload** for identity verification. |
 
 #### **🔍 Additional Details:**
 
-🏢 **Occupation & Company** (Optional)  
-🎟️ **User Category** (Dropdown for membership type)
+| Field                       | Description                                |
+| --------------------------- | ------------------------------------------ |
+| 🏢 **Occupation & Company** | **Optional** occupation and employer name. |
+| 🎟️ **User Category**        | Dropdown for **membership type**.          |
 
 ---
 
@@ -76,5 +82,3 @@ Manage **sports club members** efficiently with filtering, tracking, and subscri
 ✔️ **New members are added with detailed tracking** of their **payments and subscriptions**.
 
 ---
-
-🚀 _This **members module** ensures **efficiency** in handling membership registrations, payments, and tracking._

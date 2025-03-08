@@ -48,17 +48,20 @@ sidebar_position: 1
 1️⃣ Click the **"Add New"** button to open the creation form.  
 2️⃣ Enter the following details:
 
-- 🍔 **Name** → The title of the food item.
-- 📝 **Description** → A detailed explanation of the food item.
-- 🖼️ **Image Upload** → A **required** cover image for the food.
-- 🎥 **Video Type & Link** → Option to attach a **video demonstration**.
-- 💲 **Pricing**:
-  - 💰 **Regular Price** → Base price of the item.
-  - 📅 **Weekend Price** → Special pricing for weekends.
-- 📂 **Food Category** → Assigns the item to a **specific category**.
-- 📊 **Seasonal Pricing Adjustments** → Defines **price variations** for specific time periods.
-- 🛠️ **Extras, Variations, & Sides** → Additional customizable options.  
-  3️⃣ Click **💾 Save** to add the food item or **❌ Cancel** to discard changes.
+| Field                               | Description                                             |
+| ----------------------------------- | ------------------------------------------------------- |
+| 🍔 **Name**                         | The title of the food item.                             |
+| 📝 **Description**                  | A detailed explanation of the food item.                |
+| 🖼️ **Image Upload**                 | A **required** cover image for the food.                |
+| 🎥 **Video Type & Link**            | Option to attach a **video demonstration**.             |
+| 💲 **Pricing**                      | Section for setting food item pricing.                  |
+| 💰 **Regular Price**                | Base price of the item.                                 |
+| 📅 **Weekend Price**                | Special pricing for weekends.                           |
+| 📂 **Food Category**                | Assigns the item to a **specific category**.            |
+| 📊 **Seasonal Pricing Adjustments** | Defines **price variations** for specific time periods. |
+| 🛠️ **Extras, Variations, & Sides**  | Additional customizable options.                        |
+
+3️⃣ Click **💾 Save** to add the food item or **❌ Cancel** to discard changes.
 
 ---
 
@@ -87,5 +90,3 @@ sidebar_position: 1
 ✔️ **Enabling or disabling food items reflects instantly** on the menu.
 
 ---
-
-🚀 _This **Food Items Management Module** ensures **structured food organization, seamless menu updates, and dynamic pricing adjustments!**_

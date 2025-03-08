@@ -43,12 +43,14 @@ The **"Add New Admin"** form allows system users to **create a new administrator
 
 ### 📝 **Form Fields:**
 
-✔️ **Name** → Full name of the admin.  
-✔️ **Username** → System login username.  
-📧 **Email** → Admin’s email address.  
-🔒 **Password** → Initial password for login.  
-🎭 **Role Selection** → Dropdown menu to assign an **administrative role**.  
-🏢 **Admin Position** → Dropdown menu to specify the **admin’s department** in the organization.
+| Field                 | Description                                                              |
+| --------------------- | ------------------------------------------------------------------------ |
+| ✔️ **Name**           | Full name of the admin.                                                  |
+| ✔️ **Username**       | System login username.                                                   |
+| 📧 **Email**          | Admin’s email address.                                                   |
+| 🔒 **Password**       | Initial password for login.                                              |
+| 🎭 **Role Selection** | Dropdown menu to assign an **administrative role**.                      |
+| 🏢 **Admin Position** | Dropdown menu to specify the **admin’s department** in the organization. |
 
 ---
 
@@ -78,18 +80,22 @@ Admin details can be **modified** from the **Edit Admin** page.
 
 ### 🔄 **Editable Fields:**
 
-- ✍️ Name
-- 🔑 Username
-- 📧 Email
-- 🎭 Role
-- 🏢 Admin Position
+| Field                 | Description                                               |
+| --------------------- | --------------------------------------------------------- |
+| ✍️ **Name**           | Full name of the admin.                                   |
+| 🔑 **Username**       | System login username.                                    |
+| 📧 **Email**          | Admin’s email address.                                    |
+| 🎭 **Role**           | Assigned **administrative role**.                         |
+| 🏢 **Admin Position** | Specifies the **admin’s department** in the organization. |
 
 ---
 
-### 🛠️ **Additional Features:**
+### 🛠️ **Additional Features**
 
-➕ **Add Permission Button** → Assigns **additional permissions** to the admin.  
-🔒 **Password Update Section** → Allows **changing the admin’s password**.
+| Feature                        | Description                                      |
+| ------------------------------ | ------------------------------------------------ |
+| ➕ **Add Permission Button**   | Assigns **additional permissions** to the admin. |
+| 🔒 **Password Update Section** | Allows **changing the admin’s password**.        |
 
 ### 🎯 **Actions:**
 
@@ -97,5 +103,3 @@ Admin details can be **modified** from the **Edit Admin** page.
 💾 **Save** → Updates the admin's details.
 
 ---
-
-🚀 _This **Admins Management Module** ensures **secure and efficient role-based access** while enabling **structured administrative control**._

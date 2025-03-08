@@ -75,5 +75,3 @@ Manage **food categories** efficiently by defining, modifying, and organizing fo
 ✔️ **Activating or deactivating categories instantly reflects** on food menus.
 
 ---
-
-🚀 _This **food category management module** ensures **structured food classification, easy modifications, and seamless menu integration**!_

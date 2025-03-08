@@ -57,5 +57,3 @@ Manages and **tracks the assignment of wristbands** linked to lockers.
 ✔️ **Bulk Deletion allows resetting all wristband assignments** when required.
 
 ---
-
-🚀 _This **Wristband Assignment Management Module** ensures **secure tracking, efficient locker access, and streamlined wristband allocation!**_

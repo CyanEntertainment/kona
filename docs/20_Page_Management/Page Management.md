@@ -56,10 +56,12 @@ Users can perform various actions on pages.
 
 ### 🎯 **Available Actions:**
 
-🔻 **Set Page to Inactive** → Disables the page but retains its data.  
-✏️ **Edit** → Opens a **detailed editor** to modify page information.  
-📌 **Manage Page Sections** → Allows users to **add or remove page-specific content**.  
-🗑️ **Delete** → Removes the **page permanently**.
+| Action                      | Description                                              |
+| --------------------------- | -------------------------------------------------------- |
+| 🔻 **Set Page to Inactive** | Disables the page but **retains its data**.              |
+| ✏️ **Edit**                 | Opens a **detailed editor** to modify page information.  |
+| 📌 **Manage Page Sections** | Allows users to **add or remove page-specific content**. |
+| 🗑️ **Delete**               | Removes the **page permanently**.                        |
 
 ---
 
@@ -69,17 +71,19 @@ The **editing interface** allows modifying all attributes of a page.
 
 ### 📌 **Editable Fields:**
 
-- **Title** → The name of the page.
-- **Inner Title** → A secondary title for the page.
-- **Hero Description** → Short description displayed at the top of the page.
-- **Description** → A **rich text editor** for adding content, images, and formatting.
-- **Parent Page** → Option to **select a parent page**.
-- **Facility** → Dropdown selection for the **facility category** (**e.g., Sports Club, Beach Club**).
-- **Type** → Selection of **page type** (**e.g., Attraction, Dining, Service**).
-- **Platform** → Indicates where the page will be displayed (**📱 Mobile or 🖥️ Web**).
-- **FAQ Category** → Dropdown selection for **frequently asked questions category** (**e.g., General, Kayaking, Wakeboarding**).
-- **Has Button** → **Yes/No** selection for whether the page includes a **button**.
-- **Image Upload** → Allows uploading **images** related to the page.
+| Field                | Description                                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Title**            | The name of the page.                                                                                       |
+| **Inner Title**      | A secondary title for the page.                                                                             |
+| **Hero Description** | Short description displayed at the top of the page.                                                         |
+| **Description**      | A **rich text editor** for adding content, images, and formatting.                                          |
+| **Parent Page**      | Option to **select a parent page**.                                                                         |
+| **Facility**         | Dropdown selection for the **facility category** (**e.g., Sports Club, Beach Club**).                       |
+| **Type**             | Selection of **page type** (**e.g., Attraction, Dining, Service**).                                         |
+| **Platform**         | Indicates where the page will be displayed (**📱 Mobile or 🖥️ Web**).                                       |
+| **FAQ Category**     | Dropdown selection for **frequently asked questions category** (**e.g., General, Kayaking, Wakeboarding**). |
+| **Has Button**       | **Yes/No** selection for whether the page includes a **button**.                                            |
+| **Image Upload**     | Allows uploading **images** related to the page.                                                            |
 
 ### 🎯 **Actions:**
 
@@ -116,16 +120,20 @@ New sections can be added using **predefined templates**.
 
 ### 📋 **Section Builder:**
 
-📌 **Template Selection** → Users can choose from **predefined templates** to structure their **page sections**.
+| Field                  | Description                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| **Template Selection** | Users can choose from predefined templates to structure their page sections. |
 
 ### 🏗️ **Available Templates:**
 
-✅ **Img Title Desc** → Image with **title and description**.  
-✅ **Header Repeater Img Title Desc** → A **header with multiple images, titles, and descriptions**.  
-✅ **Img Title Desc Repeater Content** → Image, **title, and description** with repeated content.  
-✅ **Gallery** → **Image gallery layout**.  
-✅ **Title Description Repeater Statistics** → Title and **description with statistical data**.  
-✅ **Membership** → **Membership-related section**.
+| Template Name                             | Description                                                  |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| **Img Title Desc**                        | Image with **title and description**.                        |
+| **Header Repeater Img Title Desc**        | A **header with multiple images, titles, and descriptions**. |
+| **Img Title Desc Repeater Content**       | Image, **title, and description** with repeated content.     |
+| **Gallery**                               | **Image gallery layout**.                                    |
+| **Title Description Repeater Statistics** | Title and **description with statistical data**.             |
+| **Membership**                            | **Membership-related section**.                              |
 
 ### 🎯 **Actions:**
 
@@ -153,5 +161,3 @@ It ensures that **administrators can easily create, modify, and manage pages** w
 The addition of **Page Sections Management** allows for **enhanced content structuring using predefined templates**, making **content creation more flexible and user-friendly**.
 
 ---
-
-🚀 _This **Page Management Module** ensures **efficient content creation, structured categorization, and seamless digital organization!**_

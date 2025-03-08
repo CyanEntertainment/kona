@@ -57,5 +57,3 @@ Manages and **tracks locker devices** assigned to users.
 ✔️ **Proper tracking prevents mismanagement** of locker availability.
 
 ---
-
-🚀 _This **Locker Devices Management Module** ensures **efficient tracking, security, and optimal locker availability!**_

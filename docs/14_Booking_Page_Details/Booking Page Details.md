@@ -46,25 +46,29 @@ Manage **customer bookings**, track payments, control booking statuses, and ensu
 
 ## 📝 14.4. Booking Details Page
 
-### 📌 **Left Panel (Main Booking Information):**
+### 📌 **Left Panel (Main Booking Information)**
 
-- 📌 **QR Code** → Scannable code for check-in.
-- 🔢 **Booking Reference** → Unique identifier (e.g., **KJ25347**).
-- 📅 **Booking Date** → Scheduled date (e.g., **01-05-2025**).
-- ⏳ **Creation Date** → Date when the booking was made.
-- 💰 **Paid Amount** → Amount paid (e.g., **0 SAR**).
-- 💵 **Booking Amount** → Total cost before discounts (e.g., **220 SAR**).
-- 🔄 **Status** → Current booking status (e.g., **Under Review**).
-- 🎟️ **Ticket Category** → Ticket type (**Morning Ticket, Full Day Ticket**).
+| Field                    | Description                                        |
+| ------------------------ | -------------------------------------------------- |
+| 📌 **QR Code**           | Scannable code for **check-in**.                   |
+| 🔢 **Booking Reference** | Unique identifier (**e.g., KJ25347**).             |
+| 📅 **Booking Date**      | Scheduled date (**e.g., 01-05-2025**).             |
+| ⏳ **Creation Date**     | Date when the **booking was made**.                |
+| 💰 **Paid Amount**       | Amount paid (**e.g., 0 SAR**).                     |
+| 💵 **Booking Amount**    | Total cost before discounts (**e.g., 220 SAR**).   |
+| 🔄 **Status**            | Current booking status (**e.g., Under Review**).   |
+| 🎟️ **Ticket Category**   | Ticket type (**Morning Ticket, Full Day Ticket**). |
 
-### 📌 **Right Panel (Notes Section & Payment Summary):**
+### 📌 **Right Panel (Notes Section & Payment Summary)**
 
-- 📝 **Notes Dropdown** → Select or add a **note** for the booking.
-- 💾 **Save Notes Button** → Save any **modifications to notes**.
-- 📜 **Notes Table** → Displays **added notes** with timestamps.
-- 💵 **Sub Total** → Displays the **total cost before discounts**.
-- 🔖 **Discount Applied** → Shows any **discount applied**.
-- 💳 **Total Paid** → Final amount **paid by the customer**.
+| Field                    | Description                                   |
+| ------------------------ | --------------------------------------------- |
+| 📝 **Notes Dropdown**    | Select or add a **note** for the booking.     |
+| 💾 **Save Notes Button** | Saves any **modifications to notes**.         |
+| 📜 **Notes Table**       | Displays **added notes** with timestamps.     |
+| 💵 **Sub Total**         | Displays the **total cost before discounts**. |
+| 🔖 **Discount Applied**  | Shows any **discount applied**.               |
+| 💳 **Total Paid**        | Final amount **paid by the customer**.        |
 
 ---
 
@@ -108,5 +112,3 @@ Displays **activities or food items associated with the booking**.
 ✔️ **Booking statuses help organize reservations** and prevent **errors in scheduling**.
 
 ---
-
-🚀 _This **Booking Management Module** ensures **efficient reservations, transparent logs, and seamless payment tracking!**_

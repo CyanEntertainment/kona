@@ -55,5 +55,3 @@ Manages and **tracks notes associated with bookings** for internal reference.
 ✔️ **Notes remain attached to the booking** for reference during future modifications.
 
 ---
-
-🚀 _This **Booking Notes Management Module** ensures **efficient documentation, tracking, and internal reference for bookings!**_
