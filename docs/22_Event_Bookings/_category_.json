@@ -1,0 +1,8 @@
+{
+  "label": "22. Events Booking",
+  "position": 22,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages event ticket bookings, payment statuses, and ticket validation."
+  }
+}

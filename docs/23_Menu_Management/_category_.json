@@ -1,0 +1,8 @@
+{
+  "label": "23. Menu Management",
+  "position": 23,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages event ticket bookings, payment statuses, and ticket validation."
+  }
+}

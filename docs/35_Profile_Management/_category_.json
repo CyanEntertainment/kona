@@ -1,0 +1,8 @@
+{
+  "label": "35. Profile Management",
+  "position": 35,
+  "link": {
+    "type": "generated-index",
+    "description": "The Profile Management section allows users, especially administrators, to update their basic information and change their password."
+  }
+}

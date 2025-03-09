@@ -1,0 +1,8 @@
+{
+  "label": "32. General Settings",
+  "position": 32,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages the overall system configurations, including capacity limits, operating times, restrictions, contact details, and branding."
+  }
+}

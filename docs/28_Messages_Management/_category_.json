@@ -1,0 +1,8 @@
+{
+  "label": "28. Messages Management",
+  "position": 28,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages received messages, allowing administrators to filter, view, and delete user-submitted inquiries."
+  }
+}

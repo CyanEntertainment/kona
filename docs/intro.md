@@ -7,7 +7,7 @@ slug: /
 
 ## 🚀 Let's Discover **Kona Dashboard Documentation**
 
-The **Kona Dashboard** is divided into **32 sections**, each covering different functionalities.
+The **Kona Dashboard** is divided into **36 sections**, each covering different functionalities.
 
 ---
 
@@ -331,6 +331,264 @@ The section covers:
 - ➕ **20.6. Adding Page Sections**
 - 🔗 **20.7. System Integration & Workflow**
 - 🎯 **20.8. Conclusion**
+
+</details>
+
+<!-- =================== Section 21 =================== -->
+<details>
+  <summary>🎟️ **21. Events Management**</summary>
+
+📌 **Manages event creation, modification, ticketing, and status updates.**
+
+The section covers:
+
+- 📋 **21.1. Events Overview**
+- 🔍 **21.2. Filtering & Search Options**
+- ⚙️ **21.3. Event Actions & Management**
+- ✏️ **21.4. Event Editing & Creation**
+- 🔗 **21.5. System Integration & Workflow**
+- 🎯 **21.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 22 =================== -->
+<details>
+  <summary>🎟️ **22. Event Bookings Management**</summary>
+
+📌 **Manages event ticket bookings, payment statuses, and ticket validation.**
+
+The section covers:
+
+- 📋 **22.1. Event Bookings Overview**
+- 🔍 **22.2. Filtering & Search Options**
+- ⚙️ **22.3. Booking Actions & Management**
+- ✏️ **22.4. Booking Details & Ticket Validation**
+- 🔗 **22.5. System Integration & Workflow**
+- 🎯 **22.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 23 =================== -->
+<details>
+  <summary>📂 **23. Menu Management**</summary>
+
+📌 **Manages the creation, editing, activation, and organization of navigation menus.**
+
+The section covers:
+
+- 📋 **23.1. Menus Overview**
+- 🔍 **23.2. Filtering & Search Options**
+- ⚙️ **23.3. Menu Actions & Management**
+- 🛠️ **23.4. Menu Creation & Editing**
+- 🔗 **23.5. System Integration & Workflow**
+- 🎯 **23.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 24 =================== -->
+<details>
+  <summary>📅 **24. Seasons Management**</summary>
+
+📌 **Manages the creation, editing, activation, and organization of seasonal periods.**
+
+The section covers:
+
+- 📋 **24.1. Seasons Overview**
+- 🔍 **24.2. Filtering & Search Options**
+- ⚙️ **24.3. Season Actions & Management**
+- 🛠️ **24.4. Season Creation & Editing**
+- 🔗 **24.5. System Integration & Workflow**
+- 🎯 **24.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 25 =================== -->
+<details>
+  <summary>💰 **25. Coupons Management**</summary>
+
+📌 **Manages the creation, editing, activation, and organization of discount coupons.**
+
+The section covers:
+
+- 📋 **25.1. Coupons Overview**
+- 🔍 **25.2. Filtering & Search Options**
+- ⚙️ **25.3. Coupon Actions & Management**
+- ✏️ **25.4. Coupon Creation & Editing**
+- 🔗 **25.5. System Integration & Workflow**
+- 🎯 **25.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 26 =================== -->
+<details>
+  <summary>💲 **26. Price Rules Management**</summary>
+
+📌 **Manages the creation, modification, and application of pricing rules for various activities.**
+
+The section covers:
+
+- 📋 **26.1. Price Rules Overview**
+- 🔍 **26.2. Filtering & Search Options**
+- ⚙️ **26.3. Price Rule Actions & Management**
+- ✏️ **26.4. Price Rule Creation & Editing**
+- 🔗 **26.5. System Integration & Workflow**
+- 🎯 **26.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 27 =================== -->
+<details>
+  <summary>❓ **27. FAQ Categories Management**</summary>
+
+📌 **Manages the creation, editing, activation, and organization of FAQ categories.**
+
+The section covers:
+
+- 📋 **27.1. FAQ Categories Overview**
+- 🔍 **27.2. Filtering & Search Options**
+- ⚙️ **27.3. FAQ Category Actions & Management**
+- ✏️ **27.4. FAQ Category Creation & Editing**
+- 🔗 **27.5. System Integration & Workflow**
+- 🎯 **27.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 28 =================== -->
+<details>
+  <summary>📩 **28. Messages Management**</summary>
+
+📌 **Manages received messages, allowing administrators to filter, view, and delete user-submitted inquiries.**
+
+The section covers:
+
+- 📋 **28.1. Messages Overview**
+- 🔍 **28.2. Filtering & Search Options**
+- ⚙️ **28.3. Message Actions & Management**
+- 📨 **28.4. Viewing a Message**
+- 🔗 **28.5. System Integration & Workflow**
+- 🎯 **28.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 29 =================== -->
+<details>
+  <summary>🗺️ **29. Tours Management**</summary>
+
+📌 **Manages user tour reservations, including booking details and available actions.**
+
+The section covers:
+
+- 📋 **29.1. Tours Overview**
+- 🔍 **29.2. Filtering & Search Options**
+- ⚙️ **29.3. Tour Actions & Management**
+- 🔗 **29.4. System Integration & Workflow**
+- 🎯 **29.5. Conclusion**
+
+</details>
+
+<!-- =================== Section 30 =================== -->
+<details>
+  <summary>🎟️ **30. Bundle Tickets Management**</summary>
+
+📌 **Manages bundled ticket offerings, including pricing, user categories, and availability.**
+
+The section covers:
+
+- 📋 **30.1. Bundle Tickets Overview**
+- 🔍 **30.2. Filtering & Search Options**
+- ⚙️ **30.3. Bundle Ticket Actions & Management**
+- ✏️ **30.4. Editing a Bundle Ticket**
+- 🔗 **30.5. System Integration & Workflow**
+- 🎯 **30.6. Conclusion**
+
+</details>
+
+<!-- =================== Section 31 =================== -->
+<details>
+  <summary>📂 **31. All Categories Management**</summary>
+
+📌 **Manages and organizes all membership and ticket categories, ensuring proper pricing, availability, and facility assignment.**
+
+The section covers:
+
+- 📋 **31.1. All Categories Overview**
+- 🔍 **31.2. Filtering & Search Options**
+- ⚙️ **31.3. Category Actions & Management**
+- ✏️ **31.4. Editing a Category**
+- 🎟️ **31.5. Advanced Ticket Customization**
+- 🔗 **31.6. System Integration & Workflow**
+- 🎯 **31.7. Conclusion**
+
+</details>
+
+<!-- =================== Section 32 =================== -->
+<details>
+  <summary>⚙️ **32. General Settings Management**</summary>
+
+📌 **Manages the overall system configurations, including capacity limits, operating times, restrictions, contact details, and branding.**
+
+The section covers:
+
+- 📋 **32.1. General Settings Overview**
+- 🏢 **32.2. Branding & Contact Information**
+- 🖼️ **32.3. Image & Logo Uploads**
+- 📅 **32.4. Booking & Restrictions**
+- 🚺 **32.5. Women’s Booking Restrictions**
+- 📜 **32.6. Club Rules & Custom Descriptions**
+- 🔗 **32.7. System Integration & Workflow**
+- 🎯 **32.8. Conclusion**
+
+</details>
+
+<!-- =================== Section 34 =================== -->
+<details>
+  <summary>📢 **34. Send Notifications Management**</summary>
+
+📌 **Allows administrators to send targeted notifications to users, ensuring they receive relevant updates, activity-related messages, and external links.**
+
+The section covers:
+
+- 📌 **34.1. Send Notifications Overview**
+- 🔍 **34.2. Notification Filtering & Selection Options**
+- ⚙️ **34.3. Notification Actions & Management**
+- 🔗 **34.4. System Integration & Workflow**
+- ✅ **34.5. Conclusion**
+
+</details>
+
+<!-- =================== Section 35 =================== -->
+<details>
+  <summary>👤 **35. Profile Management**</summary>
+
+📌 **Allows users, especially administrators, to update their basic information and change their password securely.**
+
+The section covers:
+
+- 📌 **35.1. Profile Overview**
+- ✏️ **35.2. Basic Data Update**
+- 🔑 **35.3. Password Change**
+- 🔗 **35.4. System Integration & Workflow**
+- ✅ **35.5. Conclusion**
+
+</details>
+
+<!-- =================== Section 36 =================== -->
+<details>
+  <summary>🔗 **36. System Integration & Workflow**</summary>
+
+📌 **Outlines how different system modules—such as user management, booking, ticketing, payments, and notifications—interconnect to create a seamless user experience.**
+
+The section covers:
+
+- 📌 **36.1. Users, Bookings & Ticketing System**
+- 💳 **36.2. Booking Transactions & Payment Gateway**
+- 🔑 **36.3. Admin Roles & Permissions**
+- 🎟️ **36.4. Locker & Wristband Management**
+- 🏷️ **36.5. Assets & Equipment Tracking**
+- 🍽️ **36.6. Food & Beverage System Integration**
+- 🔔 **36.7. Notifications & Logs System**
+- 🔄 **36.8. The Complete System Workflow**
+- ✅ **36.9. System Integration Summary**
 
 </details>
 

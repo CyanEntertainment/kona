@@ -1,0 +1,8 @@
+{
+  "label": "36. How Everything is Connected",
+  "position": 36,
+  "link": {
+    "type": "generated-index",
+    "description": " Outlines how different system modules—such as user management, booking, ticketing, payments, and notifications—interconnect to create a seamless user experience."
+  }
+}

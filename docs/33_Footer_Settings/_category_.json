@@ -1,0 +1,8 @@
+{
+  "label": "33. Footer Settings",
+  "position": 33,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages the website's footer content, including address details, payment methods, app store links, and social media integration."
+  }
+}

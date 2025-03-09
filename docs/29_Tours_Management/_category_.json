@@ -1,0 +1,8 @@
+{
+  "label": "29. Tours Management",
+  "position": 29,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages user tour reservations, including booking details and available actions."
+  }
+}

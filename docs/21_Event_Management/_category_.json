@@ -1,0 +1,8 @@
+{
+  "label": "21. Events Management",
+  "position": 21,
+  "link": {
+    "type": "generated-index",
+    "description": "Manages event creation, modification, ticketing, and status updates."
+  }
+}

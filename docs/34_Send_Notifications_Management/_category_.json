@@ -1,0 +1,8 @@
+{
+  "label": "34. Send Notifications Management",
+  "position": 34,
+  "link": {
+    "type": "generated-index",
+    "description": "This module allows administrators to send notifications to users based on different types, including general updates, activity-related messages, and external links."
+  }
+}
